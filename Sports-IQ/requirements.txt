@@ -1,1 +1,6 @@
-
+Flask
+requests
+beautifulsoup4
+edge-tts
+python-dotenv
+gunicorn
